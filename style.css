@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+section {
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+}
+
+footer {
+    background-color: #ccc;
+    padding: 20px;
+}
